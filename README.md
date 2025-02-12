@@ -8,15 +8,6 @@
 
 ---
 
-## Table of Contents  
-1. [Community Guidelines](#community-guidelines)  
-2. [Funding and Sponsorships](#funding-and-sponsorships)  
-3. [Meetups and Events](#meetups-and-events)  
-4. [How to Contribute](#how-to-contribute)  
-5. [License](#license)  
-
----
-
 ## Community Guidelines 🛠️  
 1. **Be Respectful:** Treat everyone with kindness and respect.  
 2. **Share Knowledge:** Help others grow by sharing what you know.  

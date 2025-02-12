@@ -38,4 +38,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 ## Connect With Us 🌐  
-- **Website:** [birta-tech-meet.github.io](https://birta-tech-meet.github.io)  
+- **Website:** [birta-tech-meet.github.io/openbook](https://birta-tech-meet.github.io/openbook)  

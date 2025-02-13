@@ -1,5 +1,7 @@
 # Birta Tech Meet 📚  
 
+**Welcome to Birta Tech Meet**, the open handbook for the Birta Tech Community. Our goal is to foster a transparent, collaborative, and thriving tech ecosystem in **Birtamode**. This handbook contains everything about our community—rules, funding, sponsorships, and details about the **Birta Tech Meet** conference.  
+
 ## Navigation
 
 - [Home](index.md)
@@ -7,8 +9,6 @@
 - [Contribution](contribution.md)
 - [Events](events.md)
 - [Mission, Vision, Objectives](mission-vision-objectives.md)
-
-**Welcome to Birta Tech Meet**, the open handbook for the Birta Tech Community. Our goal is to foster a transparent, collaborative, and thriving tech ecosystem in **Birtamode**. This handbook contains everything about our community—rules, funding, sponsorships, and details about the **Birta Tech Meet** conference.  
 
 ## Vision 🌱  
 
